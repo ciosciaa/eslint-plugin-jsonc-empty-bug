@@ -1,0 +1,28 @@
+{
+  "name": "eslint-plugin-jsonc-empty-bug",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ciosciaa/eslint-plugin-jsonc-empty-bug#readme",
+  "bugs": {
+    "url": "https://github.com/ciosciaa/eslint-plugin-jsonc-empty-bug/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciosciaa/eslint-plugin-jsonc-empty-bug.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.1",
+    "eslint-plugin-jsonc": "^3.0.1",
+    "globals": "^17.3.0",
+    "jiti": "^2.6.1",
+    "typescript-eslint": "^8.56.0"
+  }
+}
